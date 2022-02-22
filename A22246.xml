@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames by the grace of God king of England, Scotland, France, and Ireland, defender of the faith, &amp;c. to all and singuler  archbishops, bishops, archdeacons, deanes and their officials ... greeting  : whereas wee are credibly giuen to understand by a certificate ... of ... the mayor, aldermen &amp; sheriffes, of our towne of Kingston vpon Hull ... that our poore distressed subiect William Chapman ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22246</idno>
+            <idno type="STC">STC 8654</idno>
+            <idno type="STC">ESTC S3816</idno>
+            <idno type="EEBO-CITATION">33151031</idno>
+            <idno type="OCLC">ocm 33151031</idno>
+            <idno type="VID">28875</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22246)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28875)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:129)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames by the grace of God king of England, Scotland, France, and Ireland, defender of the faith, &amp;c. to all and singuler  archbishops, bishops, archdeacons, deanes and their officials ... greeting  : whereas wee are credibly giuen to understand by a certificate ... of ... the mayor, aldermen &amp; sheriffes, of our towne of Kingston vpon Hull ... that our poore distressed subiect William Chapman ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Roger Wood, and Thomas Symcocke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1620 [i.e. 1621]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For 1-year collections on behalf of W. Chapman, for losses at sea.</note>
+                  <note>Title and other title information from first 10 lines of text.</note>
+                  <note>"Witnes our selfe at Westminster, the Fiue and Twentieth day of Ianuary, in the Eighteenth yeare of our Raigne of England, France &amp; Ireland: And of Scotland the Foure and Fiftieth. 1620."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chapman, William, fl. 1621.</term>
+               <term>Church of England --  Charitable contributions.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28875:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>
+               <figure>
+                  <p>I R</p>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">I</seg>AMES, By the grace of God, King of England, Scotland, France, and Ireland, Defender of the Faith, &amp;c.</signed>
+               <salute>To all and ſinguler Archbiſhops, Biſhops, Arch<g ref="char:EOLhyphen"/>deacons, Deanes, and their Officials, Parſons, Vicars, Curats, and to all ſpirituall perſons. And alſo to all Iuſtices of Peace, Maiors, Sheriffes, Bayliffes, Conſtables, Churchwardens and Headboroughes: And to all Officers of Citties, Boroughes, and Townes corporate: And to all other our Officers, Miniſters, and Subiects whatſoeuer they be, aſwell within Liberties, as without, to whom theſe preſents ſhall come, gréeting:</salute>
+            </opener>
+            <p>WHEREAS wée are credibly giuen to vnderſtand, by a Certificate vnder the handes and Seales of our truſty &amp; welbeloued Subiects, the Mayor, Aldermen, &amp; Sheriffes, of our Towne of <hi>Kingſton</hi> vpon <hi>Hull,</hi> within our County of <hi>Yorke,</hi> That our poore diſtreſſed Subiect <hi>William Chapman</hi> of the ſame Towne, Ma<g ref="char:EOLhyphen"/>ſter and Marryner, hath heretofore bin a man of good worth and ability and a very skilfull and ſufficient per<g ref="char:EOLhyphen"/>ſon in his vocation, hauing had heretofore frequent trading and Commerce in diuers places beyond the Seas, vntill ſuch time as it pleaſed God to viſite him with ſundry great loſſes from time to time, as namely by the King of <hi>Poland</hi> in <hi>Danske,</hi> vn<g ref="char:EOLhyphen"/>der whom he was forced to ſerue in a Ship called the <hi>Angeleuer,</hi> in which Ship he was the ſame voyage taken by the King of <hi>Sweueland,</hi> who deſpoyled him of all he had in the ſaid ſhip. And afterwards he making in the ſaid Ship a Fiſhing voyage to the <hi>Wardhouſe</hi> for the good of the Country, it ſo fortuned that the ſaid Ship &amp; goods to the value of Eleuen hundreth pounds, was taken by certaine <hi>Denmarkes</hi> to his great hinderance and almoſt vtter vndoing. Alſo he made another voyage for <hi>Amſterdam</hi> in the good Ship called the <hi>Content,</hi> in which voyage be loſt Seauenty péeces of Carſey to the value of One hundred and Foureſcore pounds more, by reaſon of all which loſſes and hinde rantes together with ſome ill Debtors (Amounting in the whole loſſe to the value of Fiftéene hundred pounds) our ſaid poore, Subiect is now quite vndone, who before theſe vntimely loſſes liued in good credit and vſed the trade of Marchandize, relieued the poore and ſet many men at worke, and yet he is not now able to helpe himſelfe, nor to ſuſtaine his poore Wife and Children, who liue in great want and are like to continue the reſt of their dayes in great miſery, vnleſſe ſome charitable courſe be forthwith taken for the reliefe and comfort of our ſaid poore Subiect, whoſe poore and vnhappy eſtate wée much pitty, and haue thought good (vpon the humble requeſt of all our foreſaid truſty and welbeloued Subiects, the Mayor, Aldermen and Sheriffes, made vnto Vs on his behalfe) to commend the ſame vnto the charitable conſideration of all our louing &amp; weldiſpoſed Subiects within certaine places hereafter mentioned, not doubting but that all good Chriſtians well weighing the premiſes, will be ready and willing as féeling members one of anothers miſery, to extend their liberall contributions towards the reliefe and comfort of their poore diſtreſſed Brother in this his great neceſſity.</p>
+            <p>KNOW yée therefore, That of Our eſpeciall Grace and Princely Compaſſion, Wee haue giuen and granted, and by theſe our Let<g ref="char:EOLhyphen"/>ters Patents, doe giue and graunt vnto our ſaid poore Subiect <hi>William Chapman,</hi> and to his Deputy and Deputies, the bearer or bea<g ref="char:EOLhyphen"/>rers hereof, full power, licence, and Authority to aske, gather, receiue, and take to Almes and charitable beneuolence of all our louing Subiects whatſoeuer. Inhabiting within our Counties of <hi>Norfolke, Suffolke, Eſſex,</hi> &amp; <hi>Kent,</hi> with our Citties of <hi>Canterbury, Rocheſter</hi> and the Cinque Portes, with our Citty of <hi>Norwich,</hi> And in all other Citties, Townes Corporate, Priuiledged places, Pariſhes, Villa<g ref="char:EOLhyphen"/>ges, and in all other places whatſoeuer within our ſaid Counties and not elſe where, for and towards the recouery of his ſaid loſſes, and the reliefe and maintenance of himſelfe, and his poore Wife, and Children.</p>
+            <p>WHEREFORE wée will and Commaund you and euery of you, that at ſuch time and times, as the ſaid <hi>William Chapman,</hi> or his Deputy or Deputies, the bearer or bearers hereof, ſhall come and repaire to any your Churches, Chappels, or other places, to aske and receiue the gratuities and charitable beneuolence of our ſaid Subiects, quietly to permit and ſuffer them ſo to doe, without any man<g ref="char:EOLhyphen"/>ner your lets or contradictions, And you the ſaid Parſons, Vicars, and Curats, for the better ſtirring vp of a charitable deuotion, delibe<g ref="char:EOLhyphen"/>rately to publiſh &amp; declare the Tenor of theſe our Letters Patents or the Coppy of Briefe thereof, vnto our ſaid Subiects vpon ſome Sa<g ref="char:EOLhyphen"/>baoth day, when as the ſame ſhall be tendered vnto you. Exhorting &amp; perſwading them to extend their liberall contributions in ſo good and charitable a déed. And you the Churchwardens of euery Pariſh, where ſuch Collection is to be made (as aforeſaid) to collect and gather the Almes and charitable beneuolence of all our louing Subiects, aſwell Strangers as others, and what ſhall be by you ſo gathered to de<g ref="char:EOLhyphen"/>liuer it to the bearer or bearers of theſe our Letters Patents and to no other perſon. when as thereunto you ſhalbe required. And laſtly, whereas we are informed of the great abuſe which is now crept in amongſt theſe poore people, who ſell their Lycences vnto ſome other perſon, whereby mens charity goeth not the right way, but vnto ſuch as deſerue it leaſt: That from henceforth our will and pleaſure is, that if it may appeare vnto you or any of you, that the ſaid <hi>William Chapman,</hi> hath contracted any bargains, or made or ſhall make ſale of theſe our Letters Patents, whereby the benefit ſhould paſſe from him to any other perſon, That thereupon theſe our Letters Patents ſhall be voide &amp; of none effect. Any Statute, Law, Ordinance, or Proniſion, heretofore made to the contrary in any wiſe notwithſtanding.</p>
+            <p>IN witneſſe whereof, Wée haue cauſed theſe our Letters to be made Patents for the ſpace of One whole yeare next after the date hereof to endure.</p>
+            <closer>
+               <dateline>Witnes our ſelfe at <hi>Weſtminſter,</hi> 
+                  <date>the Fiue and Twentith day of Ianuary, in the Eighteenth yeare of our Raigne of <hi>England, France,</hi> &amp; <hi>Ireland:</hi> And of <hi>Scotland</hi> the Foure and Fiftieth. 1620.</date>
+               </dateline>
+               <signed>❀ Steward.</signed>
+❀ God ſaue the King<g ref="char:punc">▪</g>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by Roger Wood, and Thomas Symcocke.</p>
+         </div>
+         <div xml:lang="lat" type="license">
+            <p>Cum Priuilegio.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
